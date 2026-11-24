@@ -1,0 +1,16 @@
+{
+  "name": "Gruvbox Dark",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#282828",
+    "barBg": "#1D2021",
+    "text": "#EBDBB2",
+    "muted": "#928374",
+    "accent": "#FABD2F",
+    "activeLine": "#3C3836",
+    "cursor": "#FE8019",
+    "border": "#504945"
+  }
+}

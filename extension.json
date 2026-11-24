@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.gruvbox_dark",
+  "name": "Gruvbox Dark Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Retro groove color scheme with warm, earthy colors",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-gruvbox-dark"
+}
